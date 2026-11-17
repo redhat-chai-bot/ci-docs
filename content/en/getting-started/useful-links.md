@@ -29,6 +29,7 @@ at Rover People to the clusters.
 Below is a non-exhaustive list of CI services.
 
 * [prow.ci.openshift.org](https://prow.ci.openshift.org/): main Prow dashboard with information about jobs, pull requests, the merge queue, etc.
+* [prow.ci.openshift.org/command-help](https://prow.ci.openshift.org/command-help): help for the Prow commands available in each repository. See also [Pull Request Labels and Commands](/getting-started/pr-labels-and-commands/).
 * [amd64.ocp.releases.ci.openshift.org](https://amd64.ocp.releases.ci.openshift.org/): OCP AMD 64 release status page.
 * [arm64.ocp.releases.ci.openshift.org](https://arm64.ocp.releases.ci.openshift.org/): OCP ARM 64 release status page.
 * [ppc64le.ocp.releases.ci.openshift.org](https://ppc64le.ocp.releases.ci.openshift.org/): OCP PowerPC 64 LE release status page.
